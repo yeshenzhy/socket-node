@@ -1,0 +1,16 @@
+{
+  "name": "socket-demo",
+  "version": "1.0.0",
+  "description": "socket简单实用",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "yeshen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "uuid": "^7.0.2"
+  }
+}
